@@ -8,6 +8,8 @@ Example uses:
 
 When what's needed is an atclone'' hook to e.g. install a software (plus atpull'' hook to update it):
 
+**dependence：** https://github.com/weineel/zinit-rustup 
+
 ```
 # The invocation uses https://github.com/zdharma-continuum/null repo as a placeholder
 # for the atclone'' and atpull'' hooks
